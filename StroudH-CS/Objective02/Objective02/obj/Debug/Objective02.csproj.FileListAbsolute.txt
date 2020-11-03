@@ -1,0 +1,6 @@
+\\school\shs\students\Year2015\15RussicaD\Visual Studio 2015\Projects\Objective02\Objective02\bin\Debug\Objective02.exe.config
+\\school\shs\students\Year2015\15RussicaD\Visual Studio 2015\Projects\Objective02\Objective02\bin\Debug\Objective02.exe
+\\school\shs\students\Year2015\15RussicaD\Visual Studio 2015\Projects\Objective02\Objective02\bin\Debug\Objective02.pdb
+\\school\shs\students\Year2015\15RussicaD\Visual Studio 2015\Projects\Objective02\Objective02\obj\Debug\Objective02.exe
+\\school\shs\students\Year2015\15RussicaD\Visual Studio 2015\Projects\Objective02\Objective02\obj\Debug\Objective02.pdb
+\\school\shs\students\Year2015\15RussicaD\Visual Studio 2015\Projects\Objective02\Objective02\obj\Debug\Objective02.csprojResolveAssemblyReference.cache
