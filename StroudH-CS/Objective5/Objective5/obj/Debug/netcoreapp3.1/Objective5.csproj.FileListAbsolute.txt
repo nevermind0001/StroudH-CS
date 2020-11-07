@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\bin\Debug\netcoreapp3.1\Objective5.exe
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\bin\Debug\netcoreapp3.1\Objective5.deps.json
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\bin\Debug\netcoreapp3.1\Objective5.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\bin\Debug\netcoreapp3.1\Objective5.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\bin\Debug\netcoreapp3.1\Objective5.dll
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\bin\Debug\netcoreapp3.1\Objective5.pdb
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.dll
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.pdb
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective5\Objective5\obj\Debug\netcoreapp3.1\Objective5.genruntimeconfig.cache
