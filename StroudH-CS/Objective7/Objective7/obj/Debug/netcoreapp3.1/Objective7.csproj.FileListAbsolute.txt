@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\bin\Debug\netcoreapp3.1\Objective7.exe
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\bin\Debug\netcoreapp3.1\Objective7.deps.json
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\bin\Debug\netcoreapp3.1\Objective7.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\bin\Debug\netcoreapp3.1\Objective7.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\bin\Debug\netcoreapp3.1\Objective7.dll
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\bin\Debug\netcoreapp3.1\Objective7.pdb
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.dll
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.pdb
+C:\Users\danie\OneDrive\Desktop\script\C#\StroudH-CS\Objective7\Objective7\obj\Debug\netcoreapp3.1\Objective7.genruntimeconfig.cache
